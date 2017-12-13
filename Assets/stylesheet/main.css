@@ -1,0 +1,622 @@
+body {
+    font-family: arial;
+    
+}
+
+
+
+#header ul {
+    margin: 0px;
+    padding: 0px;
+   
+   
+}
+#header ul li a {
+    font-size: 12px;
+    text-transform: uppercase;
+   
+}
+
+#header .logo img {
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+#secondary_nav ul {
+    padding: 32px 12px;
+    margin-top: 1%;
+    
+   
+}
+#secondary_nav ul li {
+    margin: 0px 20px;
+     display: inline-block;
+    
+}
+#secondary_nav ul li a{
+    font-size: 14px;
+    color: #999;
+    font-weight: 100;
+    
+    
+}
+#secondary_nav ul li a:hover {
+    color: lawngreen;
+}
+
+
+#secondary_nav .fa
+{
+    width: 15px;
+    height: 17px;
+
+}
+.bag 
+{
+    
+    padding: 0px;
+    
+    margin-top: 0px;
+}
+.bag ul
+{
+    margin-top: 10%;
+    padding: 32px 10px;
+    list-style: none;
+    
+    
+    
+}
+.bag ul li
+{
+    margin: 39px 12px;
+     
+}
+.bag ul li a
+{
+    font-size: 14px;
+    color: #999;
+ 
+  border: 1px solid #eee;
+    padding: 10px;
+    margin: 23px 20px 20px 35px;
+    border-radius: 4px;
+}
+.bag .fa
+{
+    width: 30px;
+    height: 17px;
+}
+#container
+{
+    background-color: #eeeeee;
+}
+#banner {
+    position: relative;
+}
+
+#banner img {
+   height: 627px;
+    width: 1349px;
+}
+
+h4
+{
+   color: #333;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left:40%;
+
+    font-size: 22px;
+    font-weight: 400; 
+}
+
+
+#men img
+{
+    width:601px;
+    height: 390px;
+    margin-left: 13%;
+   
+   
+}
+#men :hover img
+{
+    box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+
+
+
+#banner2 img
+{
+   
+    width:599px;
+    height: 390px;
+    margin-right: 14%;
+   
+} 
+#secondary-images
+{
+    margin-left: 85px;
+    margin-right:88px;
+}
+#images1 img
+{
+    height: 440px;
+    width: 420px;
+}
+#images2 img
+{
+    height: 440px;
+    width: 420px;
+}
+#images3 img
+{
+    height: 440px;
+    width: 420px;
+}
+#banner3 
+{
+    
+}
+
+
+#banner3 img
+{
+   
+    top: 0px;
+    width: 100%;
+   
+    height: 100%;
+    
+   
+}
+
+#homevideo img
+{
+         height: 399px;
+    width: 399px;
+    
+}
+#homevideo :hover img
+{
+  box-shadow: 0px 0px 3px 3px grey ;
+    transition: all 200ms ease-out;  
+}
+
+#designer img
+{
+    height: 399px;
+    width: 400px;
+    margin-right: 70px;
+    
+    
+   
+}
+#designer :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition: all 200ms ease-out;  
+}
+.secondary-content img
+{
+    
+    width:30%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left:37%;
+    
+
+    
+    
+}
+.image2
+{
+    height: 100%;
+    width: 100%;
+   
+    
+}
+#bracelet img
+{
+    height: 313.8px;
+    width:313.8px;
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+
+    
+        
+}
+#bracelet :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+
+#ring img
+{
+   height: 313.8px;
+    width:313.8px;
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    
+   
+}
+#ring :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+
+#earrings img
+{
+    
+   height: 313.8px;
+    width:313.8px;
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    
+}
+#earrings :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+#necklaces img
+{
+    height: 313.8px;
+    width:313.8px; 
+    margin-left:10px;
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+   
+}
+#necklaces :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+#cufflinks img
+{
+   
+    height: 313.8px;
+    width:313.8px; 
+    margin-left: 15px;
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+   
+}
+#cufflinks :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+#goldneck img
+{
+   
+    height: 313.8px;
+    width:313.8px; 
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+#goldneck :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+#limited img
+{
+    
+    height: 313.8px;
+    width:313.8px; 
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+#limited :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+#mens img
+{
+    
+   height: 313.8px;
+    width:313.8px; 
+  
+    margin-right: 10px;
+     -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    
+   
+}
+#mens :hover img
+{
+     filter: none;
+     box-shadow: 0px 0px 5px 5px grey ;
+    transition: all 200ms ease-out;
+}
+
+
+
+
+
+
+ .product 
+{
+    margin-left: 70px;
+}
+#necklace img
+{
+   width:299px;
+    height: 299px; 
+    margin-left: 1px;
+}
+ #necklace :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+
+#necklace h5
+{
+    
+    position: absolute;
+    bottom: 2%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block;
+}
+
+
+#bracelet1 img
+{
+    width:299px;
+    height: 299px;
+}
+#bracelet1 :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#bracelet1 h5
+{
+   position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block; 
+}
+#bracelet2 img
+{
+    width:299px;
+    height: 299px;
+    
+}
+#bracelet2 :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#bracelet2 h5
+{
+    position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block; 
+    
+}
+#bangle img
+{
+    width:299px;
+    height: 299px;
+    
+}
+#bangle :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#bangle h5
+{
+    position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block; 
+}
+.image4
+{
+    margin:2px;
+    padding-bottom: 1px;
+}
+#feather img
+{
+  width:299px;
+    height: 299px;  
+}
+#feather :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#feather h5
+{
+     position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block; 
+}
+#moon img
+{
+   width:299px;
+    height: 299px;   
+}
+#moon :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#moon h5
+{
+  position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block;   
+}
+#dream img
+{
+    width: 299px;
+    height: 299px;
+}
+#dream :hover img
+{
+    box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#dream h5
+{
+    position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block; 
+}
+#necklace1 img
+{
+    width: 299px;
+    height: 299px;
+}
+#necklace1 :hover img
+{
+   box-shadow: 0px 0px 3px 3px grey ;
+    transition:  100ms ease-out;  
+}
+#necklace1 h5
+{
+    position: absolute;
+    bottom: 3%;
+    left: 17%;
+    width: 80%;
+    font-size: 11px;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    margin: 0 0 10px 0;
+    font-family: serif;
+    
+    font-weight: 600;
+    
+    display: block; 
+}
+ 
+#contact ul li
+{
+    margin: 5px 10px;
+    display:inline-block;
+    
+}
+#socials  ul li
+{
+     margin-right: 10px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
